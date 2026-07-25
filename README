@@ -1,0 +1,188 @@
+# ⚡ ElectraCoach AI
+
+## AI-Powered Electrical Engineering Interview Coach for Pakistan
+
+### 📌 About the Project
+
+ElectraCoach AI is an AI-powered web application designed to help electrical engineering students and graduates in Pakistan prepare for technical interviews.
+
+The platform generates electrical engineering interview questions using AI, evaluates users' answers, provides detailed feedback, and helps improve interview performance.
+
+### 🎯 Problem It Solves
+
+Many electrical engineering students struggle to prepare for technical interviews because they lack access to realistic interview practice and personalized feedback.
+
+ElectraCoach AI solves this problem by providing:
+
+- AI-generated interview questions
+- Instant AI feedback
+- Performance evaluation
+- Learning recommendations
+
+It is designed for:
+
+- Electrical Engineering Students
+- Fresh Graduates
+- Internship Applicants
+- Job Seekers in Pakistan
+
+---
+
+# 🌐 Live Demo
+
+**Live URL**
+
+> https://YOUR-VERCEL-LINK.vercel.app
+
+*(Replace with your deployed Vercel URL.)*
+
+---
+
+# 🚀 Features
+
+- AI-powered interview questions
+- Electrical engineering focused content
+- AI answer evaluation
+- Score out of 10
+- Strengths analysis
+- Weaknesses analysis
+- Correct answer suggestions
+- Improvement tips
+- Responsive design
+- Simple and modern user interface
+
+---
+
+# 🤖 AI Feature
+
+The application uses Google's Gemini AI to simulate an electrical engineering interview.
+
+### AI Instructions (System Prompt)
+
+```
+You are an Electrical Engineering Interview Coach.
+
+Interview Question:
+${prompt}
+
+Candidate Answer:
+${answer}
+
+Evaluate the answer and provide:
+
+1. Score out of 10
+2. Strengths
+3. Weaknesses
+4. Correct Answer
+5. Tips for Improvement
+
+Keep the response simple and professional.
+```
+
+---
+
+# 🛠 Technologies Used
+
+- Next.js 16
+- React
+- TypeScript
+- Tailwind CSS
+- Google Gemini API
+- Google AI Studio
+- Vercel
+- GitHub
+- Visual Studio Code
+
+---
+
+# 🤖 AI Model
+
+- Google Gemini 1.5 Flash
+
+---
+
+# 📷 Screenshots
+
+## Home Page
+
+(Add Screenshot Here)
+
+---
+
+## AI Interview Question
+
+(Add Screenshot Here)
+
+---
+
+## AI Feedback
+
+(Add Screenshot Here)
+
+---
+
+# ⚙️ Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/mhamzahamidi-boop/electrical-ai-coach.git
+```
+
+Go to project folder
+
+```bash
+cd electrical-ai-coach
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Create environment file
+
+```
+.env.local
+```
+
+Add your API Key
+
+```
+GEMINI_API_KEY=YOUR_API_KEY
+```
+
+Run the project
+
+```bash
+npm run dev
+```
+
+Open
+
+```
+http://localhost:3000
+```
+
+---
+
+# 📁 Repository
+
+https://github.com/mhamzahamidi-boop/electrical-ai-coach
+
+---
+
+# 👨‍💻 Developer
+
+**Muhammad Hamza Hamidi**
+
+Electrical Engineering Student
+
+Pakistan
+
+---
+
+# 📄 License
+
+This project was developed for educational purposes as a Final AI Project.
